@@ -1,0 +1,14 @@
+{
+  "name": "XmlGen",
+  "version": "0.0.0",
+  "description": "XML Tool to write rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suneet S susasi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
