@@ -3,7 +3,8 @@
  */
 
 var express = require('express'),
-    stylus = require('stylus');
+    stylus = require('stylus'),
+    x2js = require('x2js');
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 var app = express();
 
